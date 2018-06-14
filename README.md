@@ -15,6 +15,14 @@ Experiments with different GAN models.
 *Name* | *Epoch 1* | *Epoch 2* | *Epoch 3* | *Epoch 37* | *Epoch 50*
 :---: | :---: | :---: | :---: | :---: | :---: |
 GAN | <img src = 'figures/GAN/gan_0.png'> | <img src = 'figures/GAN/gan_1.png'>| <img src = 'figures/GAN/gan_2.png'>| <img src = 'figures/GAN/gan_36.png'> | <img src = 'figures/GAN/gan_49.png'>
+LSGAN | <img src = 'figures/LSGAN/lsgan_1.png'> | <img src = 'figures/LSGAN/lsgan_2.png'>| <img src = 'figures/LSGAN/lsgan_3.png'>| <img src = 'figures/LSGAN/lsgan_36.png'> | <img src = 'figures/LSGAN/lsgan_49.png'>
+WGAN | <img src = 'figures/WGAN/wgan_0.png'> | <img src = 'figures/WGAN/wgan_1.png'>| <img src = 'figures/WGAN/wgan_3.png'>| <img src = 'figures/WGAN/wgan_37.png'> | <img src = 'figures/WGAN/wgan_50.png'>
+
+*Name* | *Loss* 
+:---: | :---: |
+GAN | <img src = 'figures/GAN/gan_loss.png'>
+LSGAN| <img src = 'figures/LSGAN/lsgan_loss.png'>
+WGAN| <img src = 'figures/WGAN/wgan_loss.png'>
 
 ## TODO
 - [x] WGAN-GP
