@@ -21,10 +21,10 @@ WGAN-GP | <img src = 'figures/WGAN-GP/wgan-gp4.png'> | <img src = 'figures/WGAN-
 
 *Name* | *Loss* | *Legend*
 :---: | :---: | :---: |
-GAN | <img src = 'figures/GAN/gan_loss.png'> | Dis(red), Gen(blue)
-LSGAN| <img src = 'figures/LSGAN/lsgan_loss.png'> | Dis(red), Gen(blue)
-WGAN| <img src = 'figures/WGAN/wgan_loss.png'> | Dis(blue), Gen(orange)
-WGAN-GP| <img src = 'figures/WGAN-GP/wgan-gp-loss.png'> | Dis(blue), Gen(orange)
+GAN | <img src = 'figures/GAN/gan_loss.png'> | Dis(![#f03c15](https://placehold.it/15/f03c15/000000?text=+)), Gen(![#1589F0](https://placehold.it/15/1589F0/000000?text=+))
+LSGAN| <img src = 'figures/LSGAN/lsgan_loss.png'> | Dis(![#f03c15](https://placehold.it/15/f03c15/000000?text=+)), Gen(![#1589F0](https://placehold.it/15/1589F0/000000?text=+))
+WGAN| <img src = 'figures/WGAN/wgan_loss.png'> | Dis(![#1589F0](https://placehold.it/15/1589F0/000000?text=+)), Gen(![#F08C27](https://placehold.it/15/F08C27/000000?text=+))
+WGAN-GP| <img src = 'figures/WGAN-GP/wgan-gp-loss.png'> | Dis(![#15c9f0](https://placehold.it/15/15c9f0/000000?text=+)), Gen(![#f23c6a](https://placehold.it/15/f23c6a/000000?text=+))
 ## TODO
 - [x] WGAN-GP
 - [ ] CycleGAN
