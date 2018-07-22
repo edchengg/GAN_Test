@@ -29,9 +29,9 @@ WGAN-GP| <img src = 'figures/WGAN-GP/wgan-gp-loss.png'> | Dis(![#15c9f0](https:/
 ### CycleGAN
 <img src = 'figures/CycleGAN/loss.png'>
 Horse2Zebra:
-<img src = 'figures/CycleGAN/horse1.png'> 
-<img src = 'figures/CycleGAN/horse2.png'> 
-<img src = 'figures/CycleGAN/horse3.png'> 
+<img src = 'figures/CycleGAN/horse1.png', width="300"> 
+<img src = 'figures/CycleGAN/horse2.png', width="300"> 
+<img src = 'figures/CycleGAN/horse3.png', width="300"> 
 
 
 ## TODO
